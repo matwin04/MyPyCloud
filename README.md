@@ -1,4 +1,4 @@
-# GoldenGate
+# PiCloud
  Python WiFi Bridge
 
 ## Using this wiki
